@@ -5,8 +5,8 @@
 Some Basic Git Commands are:
 
 ```
+git status
 git add
 git commit
 git push
-git status
 ```
